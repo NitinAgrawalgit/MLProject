@@ -7,5 +7,5 @@ http://nitinagrawal.pythonanywhere.com/
 
 <kbd> Team Members: </kbd> 
 * Nitin Agrawal **(PGI20CS053)**
-* [Piyush Agrawal **(PGI20CS055)**](github.com/piyushagarwal14)
+* [Piyush Agrawal **(PGI20CS055)**](https://github.com/piyushagarwal14)
 * Priyansh Vijay **(PGI20CS057)**
