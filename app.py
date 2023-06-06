@@ -29,7 +29,7 @@ def predict():
     prediction = int(model.predict(pd.DataFrame(columns=['name','company','year','kms_driven','fuel_type'],data=np.array([name,company,year,kms,fuel]).reshape(1,5))))
 
 
-    return render_template('index.html', prediction_text='Regression Model has predicted Price of car is Rs.  : {}'.format(prediction))
+    return render_template('index.html', prediction_text='Predicted Resale Price of car is Rs.  : {}'.format(prediction))
 
 
 if __name__ == "__main__":
